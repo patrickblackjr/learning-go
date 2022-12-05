@@ -15,3 +15,6 @@ use (
 	./11-reflection
 	./12-sync
 )
+
+// https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/context
+// Bedtime

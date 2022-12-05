@@ -1,3 +1,3 @@
-module sync
+module syncup
 
 go 1.19
