@@ -7,4 +7,5 @@ use (
 	./03-sum
 	./04-area
     ./05-wallet
+    ./06-dictionary
 )
