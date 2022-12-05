@@ -6,6 +6,10 @@ use (
 	./02-iteration
 	./03-sum
 	./04-area
-    ./05-wallet
-    ./06-dictionary
+	./05-wallet
+	./06-dictionary
+	./07-dep-injection
+	./08-mocking
+	./09-concurrency
+	./10-select
 )
