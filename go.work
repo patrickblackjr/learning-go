@@ -12,4 +12,6 @@ use (
 	./08-mocking
 	./09-concurrency
 	./10-select
+	./11-reflection
+	./12-sync
 )
