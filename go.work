@@ -1,0 +1,9 @@
+go 1.19
+
+use (
+	./lessons/00-hello-world
+	./lessons/01-integers
+	./lessons/02-iteration
+	./lessons/03-sum
+	./lessons/04-area
+)
